@@ -2,6 +2,7 @@
 
 :root {
   --icon--d: 32px;
+  --white-c: #f3f3f3;
 }
 body {
   font-family: "Poppins", sans-serif;
@@ -104,14 +105,14 @@ li {
   font-weight: 300;
   font-size: 25px;
   line-height: 164%;
-  color: #f3f3f3;
+  color: var(--white-c);
 }
 
 .header-nav-link {
   font-weight: 400;
   font-size: 15px;
   line-height: 100%;
-  color: #f3f3f3;
+  color: var(--white-c);
   display: inline-block;
   position: relative;
 }
