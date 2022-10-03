@@ -27,7 +27,7 @@ li {
 
 /* common styles */
 .container {
-  max-width: 1102px;
+  max-width: 1302px;
   margin: 0 auto;
   padding: 0 15px;
 }
@@ -138,6 +138,10 @@ li {
 }
 /* header end */
 /* footer icon */
+.footer {
+  padding-bottom: 38px;
+}
+
 .footer-link {
   gap: 19px;
 }
